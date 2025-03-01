@@ -11,9 +11,7 @@ I have completed multiple **internships in Computer Vision** and am currently wo
 ## 🔬 My Research  
 
 ### Muharaf: Manuscripts of Handwritten Arabic Dataset for Cursive Text Recognition  
-Mehreen Saeed, **Adrian Chan**, Anupam Mijar, Joseph Moukarzel, Georges Habchi, Carlos Younes, Amin Elias, Chau-Wai Wong, Akram Khater
-
----
+Mehreen Saeed, ***Adrian Chan***, Anupam Mijar, Joseph Moukarzel, Georges Habchi, Carlos Younes, Amin Elias, Chau-Wai Wong, Akram Khater
 
 **Published at:** Advances in Neural Information Processing Systems (**NeurIPS**), Sep 26, 2024  
 📄 **[arXiv](https://arxiv.org/abs/2406.09630)** | 💾 **[GitHub](https://github.com/mehreenmehreen/muharaf)** | 📂 **[Dataset](https://zenodo.org/records/11492215)**  
@@ -28,9 +26,7 @@ We describe the **data acquisition pipeline**, dataset features, and **prelimina
 ---
 
 ### HATFormer: Historic Handwritten Arabic Text Recognition with Transformers
-**Adrian Chan**, Anupam Mijar, Mehreen Saeed, Chau-Wai Wong, Akram Khater
-
----
+***Adrian Chan***, Anupam Mijar, Mehreen Saeed, Chau-Wai Wong, Akram Khater
 
 **Under Review at:** International Conference for Machine Learning (**ICML**)  
 📄 **[arXiv](https://arxiv.org/abs/2410.02179)** | 💾 **[GitHub](https://zenodo.org/records/14165756)**  
