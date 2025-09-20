@@ -2,7 +2,7 @@
 
 ## About Me  
 I am an **NCSU Master's student** specializing in **Artificial Intelligence (AI)**, with a strong interest in **Reinforcement Learning (RL)** and **Computer Vision (CV)**.  
-I have completed multiple **internships in Computer Vision** and am currently working towards a **Machine Learning Engineer** role.  
+I have completed multiple **MLE internships** and am currently looking for a **Machine Learning Engineer** role.  
 
 📌 **LinkedIn**: [adrian27513](https://www.linkedin.com/in/adrian27513/)  
 
@@ -22,6 +22,17 @@ Each document includes **polygonal coordinates** for text lines and essential pa
 This dataset enhances **handwritten text recognition (HTR)**, particularly for cursive scripts.  
 It spans **varied handwriting styles** and document types, including **letters, diaries, legal correspondences,** and **church records**.  
 We describe the **data acquisition pipeline**, dataset features, and **preliminary CNN-based baseline results**.  
+
+---
+### 
+How Long Do Model Patches Last? A Temporal Perspective on PortLLM
+**Adrian Chan**, Abigail Woodring, Rana Shahroz, Sukwon Yun, Tianlong Chen, Chau-Wai Wong
+**Under Review at:** International Conference on Learning Representations (**ICLR**)  
+
+#### 🔍 Abstract  
+As LLMs undergo continual pretraining, the **temporal reliability of downstream fine-tuning methods becomes increasingly important**. Using **PortLLM-style patches** as a baseline, we find that patching shows a **statistically significant performance decline over time**, even when the task and architecture remain unchanged.
+
+We propose a **forecasting algorithm** that estimates **failure dates** and tests hypotheses about target-date performance failures. These methods rely only on historical performance indicators, enabling developers to **anticipate patch degradation** and make **cost-effective decisions about retraining**.
 
 ---
 
